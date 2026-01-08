@@ -22,6 +22,9 @@ github_username: cuerdo
 minimal_mistakes_skin: default
 search: true
 repository: cuerdo/blog
+url: https://saico.blog
+baseurl: ""
+
 
 # Build settings
 markdown: kramdown
