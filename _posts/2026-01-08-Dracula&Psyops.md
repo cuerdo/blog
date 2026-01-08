@@ -1,6 +1,6 @@
 ---
 title: "Dracula & Psyops"
-date: 2025-12-09
+date: 2026-01-08
 categories:
   - Blog
 tags:
