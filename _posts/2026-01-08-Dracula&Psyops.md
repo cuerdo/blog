@@ -8,15 +8,13 @@ tags:
   - Terror
 ---
 
-
-
 El sistema democrático está en crisis. No creo sorprender a nadie diciendo esto. No solo en Estados Unidos y, acá, en la Argentina, sino en todas partes del mundo y cada vez más profundamente: la mayoría de la población está eligiendo líderes populistas de derecha que están abiertamente en contra de la democracia y tienen una visión del mundo polarizante.
 
 
 Esta crisis tiene múltiples factores y no es mi intención analizar cada uno de ellos. Lo que sí me interesa es cuál es el papel que cumple la tecnología en todo este proceso.
 
 
-Hace años que venimos sintiendo que el avance tecnológico se ha acelerado vertiginosamente y, sobre todo después de la pandemia, hemos visto cómo la sociedad se ha visto profundamente transformada por la intromisión de la tecnología en nuestros espacios privados.
+Hace años que venimos sintiendo que el avance tecnológico se ha acelerado vertiginosamente y, sobre todo después de la pandemia, hemos comprobado cómo la sociedad se ha visto profundamente transformada por la intromisión de la tecnología en nuestros espacios privados.
 
 
 Esto ha consolidado una nueva clase de capitalista: el, según Varoufakis, tecno-feudalista[1]. Billonarios (o trillonarios, según cómo lo leas) que acumulan una insólita e inimaginable cantidad de riqueza y poder. Estos nuevos señores feudales resultan también ser los dueños de esas mismas tecnologías que se han convertido en necesarias para la vida.
@@ -25,10 +23,10 @@ Esto ha consolidado una nueva clase de capitalista: el, según Varoufakis, tecno
 Casualidad no es causalidad, pero es evidente que estos dos fenómenos están relacionados de alguna manera.
 
 
-Hace más de una década, hacktivistas y profesionales han llamado la atención sobre la pérdida de privacidad que los usuarios experimentan en internet y las aplicaciones celulares. El cada vez más agresivo mercado de los datos ha demostrado sus vértices más problemáticos: desde micrófonos incorporados en dispositivos hogareños que no declaraban capacidad de escucha hasta capturas de pantalla que se transmiten periódicamente a servidores de grandes compañías.[Z].
+Hace más de una década, hacktivistas y profesionales han llamado la atención sobre la pérdida de privacidad que los usuarios experimentan en internet y las aplicaciones celulares. El cada vez más agresivo mercado de los datos ha demostrado sus vértices más problemáticos: desde micrófonos incorporados en dispositivos hogareños que no declaran capacidad de escucha hasta capturas de pantalla que se transmiten periódicamente a servidores de grandes compañías.[Z].
 
 
-Sin embargo, al exponer y tratar de concientizar sobre estos problemas en la sociedad, muchas veces se ha fallado en demostrar cuáles eran las consecuencias de esta intrusión en la privacidad del usuario. Hablábamos de la persecución estatal, del pobre manejo de esos datos, del desbalance de poder, pero la realidad es que la gente que no estaba muy interiorizada en estos temas no lograba empatizar. Primero decían que no tenían nada que esconder; ahora se han vuelto tan dependientes de esas mismas aplicaciones que, aunque tienen una vaga idea de que se les está violando un derecho, han perdido la capacidad de funcionar adecuadamente sin esta intervención tecnológica. Usan aplicaciones de citas para conocer gente, Instagram para mantener contacto con sus familiares y amigos y Facebook para vender sus productos y servicios. Aún el balance entre lo que se supone que les están sacando y lo que les da es mayor.
+Sin embargo, al exponer y tratar de concientizar sobre estos problemas en la sociedad, muchas veces se ha fallado en demostrar cuáles eran las consecuencias de esta intrusión en la privacidad del usuario. Hablábamos de la persecución estatal, del pobre manejo de esos datos, del desbalance de poder, pero la realidad es que la gente que no estaba muy interiorizada en estos temas no lograba empatizar. Primero decían que no tenían nada que esconder; ahora se han vuelto tan dependientes de esas mismas aplicaciones que, aunque tienen una vaga idea de que se les está violando un derecho, han perdido la capacidad de funcionar adecuadamente sin esta intervención tecnológica. Usan aplicaciones de citas para conocer gente, Instagram para mantener contacto con sus familiares y amigos y Facebook para vender sus productos y servicios. Aún creen que el balance entre lo que se supone que les están sacando y lo que les da es mayor.
 
 
 Aun así, creo que hoy se está volviendo cada vez más evidente que ese desbalance de poder está afectando a la sociedad en su conjunto de maneras muy negativas. Creo que hay que cambiar el enfoque con el que se presenta la discusión. Dejar de hablar de las posibilidades de un futuro incierto o de las consecuencias ocultas y enfocarse en la realidad vigente y en cómo está afectando a las personas en su intimidad.
@@ -37,16 +35,16 @@ Aun así, creo que hoy se está volviendo cada vez más evidente que ese desbala
 Para eso tenemos que entender cómo funciona el negocio de las grandes tecnológicas y por qué nos está precipitando hacia el fascismo, la soledad y la depresión.
 
 
-## El capitalismo de vigilancia
+## El capitalismo de la vigilancia
 
 
 Lo primero que tenemos que entender es por qué los ricos son tan ricos. Por qué Jeff Bezos, Elon Musk y Mark Zuckerberg son los hombres más ricos del planeta y cómo han llegado a serlo.
 
 
-Muchas veces se ha dicho que los datos son el petróleo del siglo XXI. Pero yo, en particular, nunca había entendido bien a qué se referían con esa frase. Sabía que se recolectaban datos de los usuarios, de su actividad, sus preferencias, y que luego esos datos se vendían, pero desconocía qué se hacía con esos datos y por qué otras empresas estaban dispuestas a comprarlos a cualquier precio. En su libro, la profesora Shoshana Zuboff[2] hace un análisis materialista de este fenómeno que me parece que ayuda a entender el modelo de negocio.
+Muchas veces se ha dicho que los datos son el petróleo del siglo XXI. Pero yo, en particular, nunca había entendido bien a qué se referían con esa frase. Sabía que se recolectaban datos de los usuarios, de su actividad, sus preferencias, y que luego esos datos se vendían, pero desconocía qué se hacía con esos datos y por qué otras empresas estaban dispuestas a comprarlos a cualquier precio. En su libro"El capitalismo de la vigilancia", la profesora Shoshana Zuboff[\[2\]](#ref-zuboff) hace un análisis materialista de este fenómeno que me parece que ayuda a entender el modelo de negocio.
 
 
-La idea es, en la superficie, simple: lo que venden es “futuros humanos”, una expresión acuñada por ella misma, tratando de hacer un paralelismo con los futuros financieros. Lo que estos futuros humanos significan es que estas empresas son capaces de predecir el comportamiento humano. Y esto se hace posible a través del análisis de millones de puntos de información recolectados constantemente en todo el mundo. Y cuando digo todo el mundo, me refiero a la mayoría de las personas del planeta que usan las mismas aplicaciones para todo.
+La idea es, en la superficie, simple: lo que venden es “futuros humanos”, una expresión acuñada por ella misma, tratando de hacer un paralelismo con los futuros financieros. Lo que estos futuros humanos implican es que estas empresas son capaces de predecir el comportamiento de la población. Y esto se hace posible a través del análisis de millones de puntos de información recolectados constantemente en todo el mundo. Y cuando digo todo el mundo, me refiero a la mayoría de las personas del planeta que usan las mismas aplicaciones para todo.
 
 
 En sistemas hay una expresión que me gusta repetir, que es ELI5 (explícame como si tuviera 5 años). De ninguna manera es para ofender tu inteligencia; es simplemente como me gusta a mí que me expliquen las cosas.
@@ -55,10 +53,10 @@ En sistemas hay una expresión que me gusta repetir, que es ELI5 (explícame com
 Una explicación ELI5 de cómo funcionan estos futuros humanos sería la siguiente.
 
 
-Imaginemos una persona, llamémosla Alicia. Alicia consume galletitas de agua. Todos los días Alicia desayuna galletitas de agua y un paquete le dura exactamente una semana. Por lo tanto, todos los lunes Alicia entra en su aplicación de tienda digital y compra un paquete de galletitas de agua de su marca favorita. La aplicación de la tienda está monitoreando el comportamiento de Alicia durante su sesión, y al cabo de unos meses es capaz de asegurar con un muy alto porcentaje de éxito que Alicia, el próximo lunes, va a entrar a la tienda a comprar esas mismas galletitas.
+Imaginemos una persona, llamémosla Alicia. Alicia consume galletitas de agua. Todos los días Alicia desayuna galletitas de agua y un paquete le dura exactamente una semana. Por lo tanto, todos los lunes Alicia entra en su aplicación de tienda digital y compra un paquete de galletitas de agua de su marca favorita. La aplicación de la tienda está monitoreando el comportamiento de Alicia durante su sesión, y al cabo de unos meses es capaz de asegurar con un alto porcentaje de éxito que Alicia, el próximo lunes, va a entrar a la tienda a comprar esas mismas galletitas.
 
 
-Lo que la aplicación de la tienda virtual ha hecho es un “perfil” de Alicia. Ahora ella ha sido categorizada como una potencial compradora de ese producto en específico, un día en particular. Si comparamos este método con, por ejemplo, un cartel en una autopista —que está pensado para llegar a la mayor cantidad de gente posible y cuyo costo está medido por la cantidad de personas que lo ven—, este método es infinitamente más eficiente. De los millones de personas que pasan por esa autopista, quizás solo un pequeño porcentage es un consumidor asiduo de ese producto, y es imposible determinar cuándo esa persona está deseosa de comprarlo.
+Lo que la aplicación de la tienda virtual ha hecho es un “perfil” de Alicia. Ahora ella ha sido categorizada como una potencial compradora de ese producto en específico, un día en particular. Si comparamos este método con, por ejemplo, un cartel en una autopista —que está pensado para llegar a la mayor cantidad de gente posible y cuyo costo está medido por la cantidad de personas que lo ven—, este método es infinitamente más eficiente. De los millones de personas que pasan por esa autopista, quizás solo un pequeño numero es un consumidor asiduo de ese producto, y es imposible determinar cuándo esa persona está deseosa de comprarlo.
 
 
 La tienda online ahora puede vender un “futuro humano”; es decir, puede asegurarle a la empresa de galletitas de agua que sus perfiles tienen un alto grado de posibilidad de compra, y eso vale mucho, al parecer.
@@ -85,10 +83,10 @@ El segundo control es el secuestro de la atención. Las redes sociales, sobre to
 A partir de este doble control —conocimiento íntimo y control de la información que el usuario recibe— son capaces de manipular subrepticiamente tus emociones para posicionar productos. Por ejemplo, Instagram, especialmente en mujeres, tiende a alimentar su feed con imágenes de cuerpos idealizados que erosionan la autoestima, algo que la propia empresa ha reconocido internamente. A partir de señales implícitas de uso —como interacciones, tiempo de visualización o incluso contenido subido y luego eliminado—, la plataforma infiere estados emocionales probables y ajusta tanto el contenido como la publicidad que muestra, favoreciendo con frecuencia productos de belleza o modificación corporal[5].
 
 
-A este método se lo llama psyops, operaciones psicológicas: un término militar y una práctica milenaria de utilizar las emociones —sobre todo las emociones fuertes— para cambiar el comportamiento de un objetivo (persona o grupo). Lo novedoso es que ahora las empresas de datos han tomado una práctica militar y la han dirigido a la población para maximizar sus ganancias. Usando este doble control, pueden venderle a una fábrica nuevos consumidores que, sin siquiera saberlo, están siendo manipulados para comprar sus productos.
+A este método se lo llama “psyops”, operaciones psicológicas: un término militar y una práctica milenaria de utilizar las emociones —sobre todo las emociones fuertes— para cambiar el comportamiento de un objetivo (persona o grupo). Lo novedoso es que ahora las empresas de datos han tomado una práctica militar y la han dirigido a la población para maximizar sus ganancias. Usando este doble control, pueden venderle a una fábrica nuevos consumidores que, sin siquiera saberlo, están siendo manipulados para comprar sus productos.
 
 
-Este es el capitalismo de vigilancia. Este es el negocio más lucrativo del mundo. Esto es por lo cual los datos son tan valiosos: porque permiten crear psyops. Esto es lo que venden Facebook y TikTok. Esto es lo que hace a los millonarios tan ricos. Y esto ya sería un problema en sí mismo si no fuera porque ahora se le ha agregado una nueva dimensión a esta batalla cognitiva.
+Este es el capitalismo de la vigilancia. Este es el negocio más lucrativo del mundo. Esto es por lo cual los datos son tan valiosos: porque permiten crear psyops. Esto es lo que venden Facebook y TikTok. Esto es lo que hace a los millonarios tan ricos. Y esto ya sería un problema en sí mismo si no fuera porque ahora se le ha agregado una nueva dimensión a esta batalla cognitiva.
 
 
 A partir del escándalo de Cambridge Analytica se ha demostrado que, al menos, hubo intentos de manipular elecciones utilizando estos mismos métodos.
@@ -97,7 +95,7 @@ A partir del escándalo de Cambridge Analytica se ha demostrado que, al menos, h
 ### El caso Cambridge Analytica
 
 
-En el año 2018, a partir de una serie de filtraciones periodísticas, se demostró que la empresa de análisis de datos Cambridge Analytica había utilizado datos personales obtenidos de Facebook sin consentimiento para influir en procesos electorales[6], particularmente las elecciones presidenciales de Estados Unidos de 2016. No hubo un “juicio” único y centralizado contra la empresa por manipulación electoral, pero sí investigaciones parlamentarias, sanciones regulatorias y audiencias públicas en EE. UU. y el Reino Unido que confirmaron estas prácticas.
+En el año 2018, a partir de una serie de filtraciones periodísticas, se demostró que la empresa de análisis de datos Cambridge Analytica había utilizado datos personales obtenidos de Facebook sin consentimiento para influir en procesos electorales[6], particularmente las elecciones presidenciales de Estados Unidos de 2016. No hubo un “juicio” único y centralizado contra la empresa por manipulación electoral, pero sí investigaciones parlamentarias, sanciones regulatorias y audiencias públicas en EE.UU. y el Reino Unido que confirmaron estas prácticas.
 
 
 La manipulación no se centraba necesariamente en cambiar de forma directa el voto de un partido a otro. La evidencia reunida y el análisis posterior de estas prácticas sugieren estrategias más sutiles: influir sobre votantes indecisos, captar a quienes votaban por primera vez y, en algunos casos, desincentivar la participación electoral.
@@ -106,16 +104,16 @@ La manipulación no se centraba necesariamente en cambiar de forma directa el vo
 Esto producía un doble efecto: reducía la participación democrática y concentraba el voto joven hacia un sector del espectro político. Los jóvenes, más activos en redes sociales, resultaban especialmente vulnerables.
 
 
-No tenemos datos completos sobre cuánto se ha extendido esta práctica, pero la tendencia es clara. No sería sorprendente que estas metodologías se hayan consolidado y que nuevas “Cambridge Analytica” operen hoy en todo el mundo ofreciendo manipular elecciones a quienes puedan pagarlo.
+No tenemos datos completos sobre cuánto se ha extendido esta práctica, pero la tendencia es clara. No sería sorprendente que estas metodologías se hayan consolidado y que nuevas “Cambridge Analytica” operen hoy en todo el mundo, ofreciendo manipular elecciones a quienes puedan pagarlo.
 
 
 Si vemos los números podemos notar una clara convergencia de estos dos fenómenos.
 
 
-La brecha de poder de los multimillonarios, que ya era preocupante, se ha extendido a una nueva dimensión en donde ya no solo tienen un poder económico, sino que ahora pueden imponerse políticamente.
+La brecha de poder de los multimillonarios, que ya era preocupante, se ha extendido a una nueva dimensión en donde ya no solo tienen poderio económico, sino que ahora pueden imponerse políticamente.
 
 
-Si, por ejemplo, nos detuviéramos a pensar en las últimas elecciones argentinas (2023), en donde un candidato —apoyado mayoritariamente por jóvenes—, con una participación electoral mínima histórica, basó su campaña en el uso intensivo de redes sociales y cuyas políticas favorecen a los grandes conglomerados tecnológicos (exportación de litio, instalación de data centers, baja de impuestos), no sería demasiado aventurado imaginar que se haya hecho uso de los mismos métodos que tenía Cambridge Analytica para torcer elecciones.
+Si, por ejemplo, nos detuviéramos a pensar en las últimas elecciones argentinas (2023), en las cuales el candidato ganador —apoyado mayoritariamente por jóvenes, con una participación electoral mínima histórica—, basó su campaña en el uso intensivo de redes sociales, y cuyas políticas favorecen a los grandes conglomerados tecnológicos (exportación de litio, instalación de data centers, baja de impuestos), no sería demasiado aventurado imaginar que se haya hecho uso de los mismos métodos que tenía Cambridge Analytica para torcer elecciones.
 
 
 Y aún podemos ir un poco más lejos en nuestras suposiciones: si Milei es el producto de psyops, y sus políticas, discurso y base electoral son similares a otros líderes del mundo, quizás estos también sean producto de psyops.
@@ -154,7 +152,7 @@ Con el paso del tiempo sabemos que esa intuición no era infundada: apenas veint
 Y, efectivamente, son esas herramientas las que permiten a los personajes derrotar al Conde. Sin embargo, esos mismos avances aparecen cargados de una ambigüedad inquietante. Son los que hacen posible traer a Drácula desde el otro lado del mundo; la transfusión de sangre se presenta como un acto cargado de erotismo y transgresión; Mina, al aprender a usar la máquina de escribir, encarna el desplazamiento del rol tradicional de la mujer como “ángel del hogar”.
 
 
-Stoker reconoce las contradicciones de su tiempo, pero no las rompe. Las ve, las tematiza, las dramatiza, pero intenta resolverlas sin cuestionar de raíz el sistema que las produce. *Drácula* es el espacio narrativo donde esas tensiones pueden ordenarse, donde el monstruo concentra los miedos y permite, al menos ficticiamente, restaurar un equilibrio que en la realidad ya comenzaba a resquebrajarse.
+Stoker reconoce las contradicciones de su tiempo, pero no las rompe. Las ve, las tematiza, las dramatiza, pero intenta resolverlas sin cuestionar de raíz el sistema que las produce. *Drácula* es el espacio narrativo donde esas tensiones pueden ordenarse, donde el monstruo concentra los miedos y permite, al menos ficticiamente, restaurar un equilibrio que en la realidad ya comienza a resquebrajarse.
 
 
 Para entender por qué ese intento de resolución toma la forma que toma, es necesario detenerse en el contexto histórico en el que la novela fue escrita.
@@ -205,7 +203,7 @@ Esto tuvo efectos secundarios profundos: al acceder a la propiedad, la mujer se 
 Estas mujeres también luchaban por la desestigmatización de la prostitución. No defendían la prostitución en sí, pero sí denunciaban que la culpa recayera exclusivamente sobre la mujer. Un ejemplo es la Ley de Enfermedades Contagiosas, que permitía a la policía “inspeccionar” forzosamente a mujeres sospechadas de prostitución. Las feministas denunciaban no solo la violencia de la ley, sino también que excluía completamente a los hombres consumidores.
 
 
-Este punto es clave, porque aunque la sociedad victoriana era moralmente rígida, también practicaba una lógica de laissez-faire: mientras las transgresiones permanecieran en el ámbito privado y no alterarán el orden social, eran toleradas. Estas leyes rompían esa frontera: lo privado se volvía público, usando el miedo al contagio —especialmente la sífilis— como justificación.
+Este punto es clave, porque aunque la sociedad victoriana era moralmente rígida, también practicaba una lógica de laissez-faire: mientras las transgresiones permanecieran en el ámbito privado y no alteraran el orden social, eran toleradas. Estas leyes rompían esa frontera: lo privado se volvía público, usando el miedo al contagio —especialmente la sífilis— como justificación.
 
 
 Un caso traumático para Stoker, directamente ligado a esto, fue el juicio a Oscar Wilde.
@@ -226,7 +224,7 @@ El padre de Bosie acusó públicamente a Wilde de sodomía. Wilde respondió con
 Wilde nunca se recuperó y murió en el exilio, en la pobreza, en 1900.
 
 
-Este juicio marca, en muchos sentidos, el final simbólico de la era victoriana. Lo privado se vuelve político. Las barreras entre nobles y plebeyos se disuelven. La movilidad social expone una verdad incómoda: los nobles practicaban una moral diferente, que ahora quedaba a la vista.
+Este juicio marca, en muchos sentidos, el final simbólico de la era victoriana. Lo privado se vuelve político. Las barreras entre nobles y plebeyos se disuelven. La movilidad social expone una verdad incómoda: los nobles practican una moral diferente, que ahora queda a la vista.
 
 
 Muchos se apresuraron a romper vínculos con Wilde. Entre ellos, Henry Irving, jefe de Stoker, con quien este mantenía una relación de dependencia compleja y tóxica.
@@ -259,7 +257,7 @@ Stoker divide así el pensamiento de la época en tres centros: un noble, un ame
 Lo que Stoker propone entonces es que falta un cuarto poder: el espiritual. Ahí es donde entra Van Helsing, que logra unir a los tres hombres que estaban enfrentados, compitiendo por el amor de Lucy, y que tras su muerte, guiados ahora por Van Helsing, se unen no para conquistar, sino para proteger a Mina y honrar su matrimonio con Jonathan.
 
 
-### Van Helsing y un monstruo que cree en Dios
+#### Van Helsing y un monstruo que cree en Dios
 
 
 Si lo comparamos con otros monstruos de la época victoriana, Drácula tiene una particularidad singular: es afectado por la simbología cristiana. En cierto punto, Drácula cree en Dios. Si, por ejemplo, lo comparamos con la criatura de *Frankenstein*, allí Dios —y en especial Cristo— no se deja ver por ningún lado.
@@ -275,7 +273,7 @@ La novela no solo derrota al monstruo: rehabilita lo sagrado.
 Y para ello va a hacer uso de emociones, en particular se va a apoyar fuertemente en dos emociones: el miedo y el amor, pero también va a usar otras, como el resentimiento y el asco.
 
 
-## Protofascismo
+#### Protofascismo
 
 
 Estas cuatro emociones (miedo, amor, resentimiento y asco) son la base de lo que la autora Eva Illouz ha llamado populismo de derecha o protofascismo[9]. Hoy en día la palabra fascismo está completamente devaluada, pero, como dice el dicho, si camina como un pato, habla como un pato y se ve como un pato, entonces es un pato.
@@ -284,7 +282,7 @@ Estas cuatro emociones (miedo, amor, resentimiento y asco) son la base de lo que
 Si bien podemos decir que estos nuevos movimientos de derecha no son fascistas en toda su regla, sí allanan el camino hacia movimientos más extremistas. El protofascismo o populismo de derecha se destaca por redireccionar la violencia de una crisis hacia el interior de la sociedad. Otra forma de decirlo es que logra capitalizar una crisis a favor de sus propios intereses, manteniendo el status quo y redoblando la opresión hacia los sectores más vulnerables de la sociedad.
 
 
-Volviendo a Drácula, podemos ver ese mismo redireccionamiento de la crisis —producida por las contradicciones del sistema— hacia el interior de la sociedad (extranjeros y mujeres). Al movilizar el miedo al contagio, el amor a la religión, el asco al extranjero y el resentimiento hacia la mujer, Stoker logra, ficcionalmente, resolver la crisis: matar a Drácula, ‘rescatar’ a Jonathan de un espacio de transgresión sexual y progresivamente aislar y disciplinar a Mina, despojándola de su autonomía ‘por su propio bien’..
+Volviendo a Drácula, podemos ver ese mismo redireccionamiento de la crisis —producida por las contradicciones del sistema— hacia el interior de la sociedad (extranjeros y mujeres). Al movilizar el miedo al contagio, el amor a la religión, el asco al extranjero y el resentimiento hacia la mujer, Stoker logra, ficcionalmente, resolver la crisis: matar a Drácula, ‘rescatar’ a Jonathan de un espacio de transgresión sexual y progresivamente aislar y disciplinar a Mina, despojándola de su autonomía ‘por su propio bien’.
 
 
 Drácula no fue un éxito inmediato en su publicación, pero su imaginario cobró una nueva fuerza en las primeras décadas del siglo XX, cuando muchas de las tensiones que Stoker había intuido —guerra en Europa del Este, enfermedad, miedo al extranjero, antisemitismo— se volvieron experiencia cotidiana. En ese contexto, la novela encontró una resonancia renovada en el clima cultural de la Primera Guerra Mundial.
@@ -305,7 +303,7 @@ Como dijo Marx, la historia se repite dos veces: primero como tragedia y despué
 Cuando el fascismo se instauró en Europa en la primera mitad del siglo XX, utilizó como excusa la amenaza roja, el fantasma del comunismo. Aquello fue una tragedia: millones de muertos, guerras, exterminios. Pero al mismo tiempo fue una farsa, porque el comunismo no fue la causa real del fascismo. El fascismo se había gestado antes, como respuesta a las contradicciones internas de un sistema liberal que ya no podía sostenerse.
 
 
-El comunismo funcionó como un enemigo externo sobre el cual se pudo proyectar la violencia de la crisis, permitiendo así que las mismas dinámicas de poder se prolongarán durante décadas. La violencia se exteriorizó, se le dio forma, se la volvió manejable.
+El comunismo funcionó como un enemigo externo sobre el cual se pudo proyectar la violencia de la crisis, permitiendo así que las mismas dinámicas de poder se prolongaran durante décadas. La violencia se exteriorizó, se le dio forma, se la volvió manejable.
 
 
 Hoy vemos reaparecer las mismas fórmulas, los mismos discursos y las mismas emociones. Pero esta vez no hay un enemigo externo claro. No hay amenaza roja, no hay una ideología alternativa capaz de ocupar ese lugar. En el siglo XIX, la ciencia realmente fallaba. La gripe y la sífilis hacían estragos en la sociedad y el conocimiento disponible no lograba ofrecer una respuesta efectiva. Ese límite material del positivismo se refleja en *Drácula* como una crítica a una ciencia que prometía orden y progreso, pero que no podía contener la crisis.
@@ -338,33 +336,41 @@ La cuestión, entonces, no es abandonar la tecnología, sino dejar de naturaliza
 No es la tecnología el problema, es nuestra relación con ella.
 
 
-Besis 
-saico
-
-
 ## Notas y referencias
 
 
-[Z1] [Z1] Google Nest Secure microphone disclosure: Business Insider, “Google admits it forgot to mention the Nest Secure alarm system has a microphone”, 2019; The Guardian, “Google admits Nest Secure alarm system had hidden microphone”, 2019. Ver también: Shoshana Zuboff, *The Age of Surveillance Capitalism* (2019) y entrevistas posteriores.
+[Z1] Google Nest Secure microphone disclosure: Business Insider, “Google admits it forgot to mention the Nest Secure alarm system has a microphone”, 2019; The Guardian, “Google admits Nest Secure alarm system had hidden microphone”, 2019. Ver también: Shoshana Zuboff, *The Age of Surveillance Capitalism* (2019) y entrevistas posteriores.
+
 
 [Z2] Microsoft, “Introducing Recall”, Windows Blog, 2024; Electronic Frontier Foundation, “Microsoft’s Recall Is Surveillance Built Into Windows”, 2024.
 
+
 [1] Yanis Varoufakis, “Technofeudalism Is Taking Over”, Project Syndicate, 2021; y *Technofeudalism: What Killed Capitalism*, 2023.
 
+<a id="ref-zuboff"></a>
 [2] Shoshana Zuboff, *The Age of Surveillance Capitalism*, PublicAffairs, 2019.
+
 
 [3] Charles Duhigg, “How Companies Learn Your Secrets”, *The New York Times Magazine*, 2012 (caso Target y embarazo).
 
+
 [4] Jonathan Haidt, *The Anxious Generation*, 2024.
+
 
 [5] Facebook Papers / Frances Haugen (2021)
 
+
 [6] UK Information Commissioner’s Office (ICO), *Investigation into the use of data analytics in political campaigns*, 2018; FTC v. Cambridge Analytica, 2019; cobertura de *The Guardian*.
+
 
 [7] Eric Hobsbawm, *The Age of Revolution: 1789–1848*, Vintage Books, 1962.
 
+
 [8] Antonio Gramsci, *Cuadernos de la cárcel*, c. 1930.
 
-[9] Eva Illouz, *Cold Intimacies*; *Consuming the Romantic Utopia*; artículos sobre populismo emocional.
+
+[9] Eva Illouz, *Cold Intimacies*; *Consuming the Romantic Utopia*;artículos sobre populismo emocional.
+
 
 [10] Karl Marx, *El 18 Brumario de Luis Bonaparte*, 1852.
+
