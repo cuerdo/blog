@@ -57,7 +57,7 @@ Una explicación ELI5 de cómo funcionan estos futuros humanos sería la siguien
 Imaginemos una persona, llamémosla Alicia. Alicia consume galletitas de agua. Todos los días Alicia desayuna galletitas de agua y un paquete le dura exactamente una semana. Por lo tanto, todos los lunes Alicia entra en su aplicación de tienda digital y compra un paquete de galletitas de agua de su marca favorita. La aplicación de la tienda está monitoreando el comportamiento de Alicia durante su sesión, y al cabo de unos meses es capaz de asegurar con un alto porcentaje de éxito que Alicia, el próximo lunes, va a entrar a la tienda a comprar esas mismas galletitas.
 
 
-Lo que la aplicación de la tienda virtual ha hecho es un “perfil” de Alicia. Ahora ella ha sido categorizada como una potencial compradora de ese producto en específico, un día en particular. Si comparamos este método con, por ejemplo, un cartel en una autopista —que está pensado para llegar a la mayor cantidad de gente posible y cuyo costo está medido por la cantidad de personas que lo ven—, este método es infinitamente más eficiente. De los millones de personas que pasan por esa autopista, quizás solo un pequeño numero es un consumidor asiduo de ese producto, y es imposible determinar cuándo esa persona está deseosa de comprarlo.
+Lo que la aplicación de la tienda virtual ha hecho es un “perfil” de Alicia. Ahora ella ha sido categorizada como una potencial compradora de ese producto en específico, un día en particular. Si comparamos este método con, por ejemplo, un cartel en una autopista —que está pensado para llegar a la mayor cantidad de gente posible y cuyo costo está medido por la cantidad de personas que lo ven—, este método es infinitamente más eficiente. De los millones de personas que pasan por esa autopista, quizás solo un pequeño número es un consumidor asiduo de ese producto, y es imposible determinar cuándo esa persona está deseosa de comprarlo.
 
 
 La tienda online ahora puede vender un “futuro humano”; es decir, puede asegurarle a la empresa de galletitas de agua que sus perfiles tienen un alto grado de posibilidad de compra, y eso vale mucho, al parecer.
@@ -96,7 +96,7 @@ A partir del escándalo de Cambridge Analytica se ha demostrado que, al menos, h
 ### El caso Cambridge Analytica
 
 
-En el año 2018, a partir de una serie de filtraciones periodísticas, se demostró que la empresa de análisis de datos Cambridge Analytica había utilizado datos personales obtenidos de Facebook sin consentimiento para influir en procesos electorales[\[6\]](#ref-CA), particularmente las elecciones presidenciales de Estados Unidos de 2016. No hubo un “juicio” único y centralizado contra la empresa por manipulación electoral, pero sí investigaciones parlamentarias, sanciones regulatorias y audiencias públicas en EE.UU. y el Reino Unido que confirmaron estas prácticas.
+En el año 2018, a partir de una serie de filtraciones periodísticas, se demostró que la empresa de análisis de datos Cambridge Analytica había utilizado datos personales obtenidos de Facebook sin consentimiento para influir en procesos electorales[\[6\]](#ref-CA), particularmente en las elecciones presidenciales de Estados Unidos de 2016. No hubo un “juicio” único y centralizado contra la empresa por manipulación electoral, pero sí investigaciones parlamentarias, sanciones regulatorias y audiencias públicas en EE.UU. y el Reino Unido que confirmaron estas prácticas.
 
 
 La manipulación no se centraba necesariamente en cambiar de forma directa el voto de un partido a otro. La evidencia reunida y el análisis posterior de estas prácticas sugieren estrategias más sutiles: influir sobre votantes indecisos, captar a quienes votaban por primera vez y, en algunos casos, desincentivar la participación electoral.
@@ -111,7 +111,7 @@ No tenemos datos completos sobre cuánto se ha extendido esta práctica, pero la
 Si vemos los números podemos notar una clara convergencia de estos dos fenómenos.
 
 
-La brecha de poder de los multimillonarios, que ya era preocupante, se ha extendido a una nueva dimensión en donde ya no solo tienen poderio económico, sino que ahora pueden imponerse políticamente.
+La brecha de poder de los multimillonarios, que ya era preocupante, se ha extendido a una nueva dimensión en donde ya no solo tienen poderío económico, sino que ahora pueden imponerse políticamente.
 
 
 Si, por ejemplo, nos detuviéramos a pensar en las últimas elecciones argentinas (2023), en las cuales el candidato ganador —apoyado mayoritariamente por jóvenes, con una participación electoral mínima histórica—, basó su campaña en el uso intensivo de redes sociales, y cuyas políticas favorecen a los grandes conglomerados tecnológicos (exportación de litio, instalación de data centers, baja de impuestos), no sería demasiado aventurado imaginar que se haya hecho uso de los mismos métodos que tenía Cambridge Analytica para torcer elecciones.
@@ -204,7 +204,7 @@ Esto tuvo efectos secundarios profundos: al acceder a la propiedad, la mujer se 
 Estas mujeres también luchaban por la desestigmatización de la prostitución. No defendían la prostitución en sí, pero sí denunciaban que la culpa recayera exclusivamente sobre la mujer. Un ejemplo es la Ley de Enfermedades Contagiosas, que permitía a la policía “inspeccionar” forzosamente a mujeres sospechadas de prostitución. Las feministas denunciaban no solo la violencia de la ley, sino también que excluía completamente a los hombres consumidores.
 
 
-Este punto es clave, porque aunque la sociedad victoriana era moralmente rígida, también practicaba una lógica de laissez-faire: mientras las transgresiones permanecieran en el ámbito privado y no alteraran el orden social, eran toleradas. Estas leyes rompían esa frontera: lo privado se volvía público, usando el miedo al contagio —especialmente la sífilis— como justificación.
+Este punto es clave, porque aunque la sociedad victoriana era moralmente rígida, también practicaba una lógica de laissez-faire: mientras las transgresiones permanecieran en el ámbito privado y no alteraran el orden social, eran toleradas. Estas leyes rompían esa frontera: lo privado se volvía público, usando el miedo al contagio —especialmente de la sífilis— como justificación.
 
 
 Un caso traumático para Stoker, directamente ligado a esto, fue el juicio a Oscar Wilde.
@@ -246,7 +246,7 @@ Pero, sobre todo, lo que le preocupa a Stoker es el contagio. Pero no únicament
 Esto se refleja en las relaciones de Lucy con Mina y del Conde con Jonathan. Para Stoker, *Drácula* es una novela “edificante”, es decir, deja una lección moral. Su intención es advertirle a la población que las prácticas perversas de la nobleza y las relaciones con la chusma de los barrios bajos (extranjeros y prostitutas) no solo ayudan a la transmisión de enfermedades, sino que también condenan el alma de la persona.
 
 
-Desde este punto de vista podemos interpretar que Lucy —mujer noble, educada, feminista, que aplaza el compromiso del matrimonio y que es “sonámbula”— luego de una de sus incursiones nocturnas vuelve enferma y se convierte en una mala influencia para Mina. Al mismo tiempo, Jonathan, luego de firmar un millonario contrato inmobiliario con un acaudalado extranjero, es “secuestrado” en un prostíbulo por meses hasta que cae enfermo de una ‘fiebre mental’, una forma eufemística de describir colapsos nerviosos que, en la mentalidad victoriana, se asociaban frecuentemente con la sífilis.
+Desde este punto de vista podemos interpretar que Lucy —mujer noble, educada, feminista, que aplaza el compromiso del matrimonio y que es “sonámbula”— luego de una de sus incursiones nocturnas vuelve enferma y se convierte en una mala influencia para Mina. Al mismo tiempo, Jonathan, luego de firmar un millonario contrato inmobiliario con un acaudalado extranjero, es “secuestrado” en un prostíbulo por meses hasta que cae enfermo de una "fiebre mental", una forma eufemística de describir colapsos nerviosos que, en la mentalidad victoriana, se asociaban frecuentemente con la sífilis.
 
 
 Pero Stoker no se queda solo allí. También acusa a los líderes de la sociedad, a quienes debían cuidar y proteger a la población, aquellos que tenían el poder de tomar decisiones, de ser ciegos e impotentes ante este problema. Estos son, por supuesto, los pretendientes de Lucy. Son los hombres que tienen agencia, que toman decisiones y que, eventualmente, toman malas decisiones, y esas malas decisiones llevan a la muerte de Lucy.
@@ -370,7 +370,7 @@ No es la tecnología el problema, es nuestra relación con ella.
 [8] Antonio Gramsci, *Cuadernos de la cárcel*, c. 1930.
 
 <a id="ref-illouz"></a>
-[9] Eva Illouz, *Cold Intimacies*; *Consuming the Romantic Utopia*;artículos sobre populismo emocional.
+[9] Eva Illouz, *Cold Intimacies*; *Consuming the Romantic Utopia* artículos sobre populismo emocional.
 
 <a id="ref-marx"></a>
 [10] Karl Marx, *El 18 Brumario de Luis Bonaparte*, 1852.
