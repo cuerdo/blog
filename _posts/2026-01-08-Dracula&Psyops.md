@@ -174,7 +174,7 @@ Otro imperio que atravesaba profundas crisis era el Imperio ruso, en la antesala
 Por entonces —y en parte aún hoy—, a los judíos se los consideraba apátridas y, por lo tanto, un problema para el nuevo mundo organizado en Estados-nación. En la mentalidad de la época, los movimientos anarquistas y comunistas eran indistinguibles del judaísmo. Y si bien ninguno de los perpetradores del atentado al zar era judío, estos fueron culpados de todas maneras.
 
 
-Esto derivó en un aumento de pogromos —linchamientos populares de judíos— que resultaron en una migración masiva. Muchos de estos judíos terminaron en Inglaterra, específicamente en el este de Londres, en los barrios bajos. Pero no llegaron solos: trajeron consigo una gripe, la llamada gripe rusa, quizá la primera pandemia global de gripe, ya que las nuevas tecnologías —tren, barco a vapor, telégrafo— permitían que un fenómeno local tuviera repercusiones globales.
+Esto derivó en un aumento de pogromos —linchamientos populares de judíos— que resultaron en una migración masiva. Muchos de estos judíos terminaron en Inglaterra, específicamente en el este de Londres, en los barrios bajos. Pero no llegaron solos: trajeron consigo una gripe, la llamada gripe rusa, quizá la primera pandemia de gripe, ya que las nuevas tecnologías —tren, barco a vapor, telégrafo— permitían que un fenómeno local tuviera repercusiones globales.
 
 
 Esta diáspora cristalizó un nuevo mundo en formación: la globalización. Ya no importaba que Inglaterra fuera la superpotencia mundial; un atentado al otro lado del mundo podría generar una crisis en el corazón de Londres.
