@@ -9,6 +9,8 @@ tags:
   - Terror
 ---
 
+## Tecnología, capitalismo de la vigilancia y el retorno al fascismo
+
 El sistema democrático está en crisis. No creo sorprender a nadie diciendo esto. No solo en Estados Unidos y, acá, en la Argentina, sino en todas partes del mundo y cada vez más profundamente: la mayoría de la población está eligiendo líderes populistas de derecha que están abiertamente en contra de la democracia y tienen una visión del mundo polarizante.
 
 
