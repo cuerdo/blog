@@ -20,13 +20,13 @@ Esta crisis tiene múltiples factores y no es mi intención analizar cada uno de
 Hace años que venimos sintiendo que el avance tecnológico se ha acelerado vertiginosamente y, sobre todo después de la pandemia, hemos comprobado cómo la sociedad se ha visto profundamente transformada por la intromisión de la tecnología en nuestros espacios privados.
 
 
-Esto ha consolidado una nueva clase de capitalista: el, según Varoufakis, tecno-feudalista[\[1\]](#ref-varoufakis). Billonarios (o trillonarios, según cómo lo leas) que acumulan una insólita e inimaginable cantidad de riqueza y poder. Estos nuevos señores feudales resultan también ser los dueños de esas mismas tecnologías que se han convertido en necesarias para la vida.
+Esto ha consolidado una nueva clase de capitalista: el, según Varoufakis, tecno-feudalista<a id="cite-varoufakis"></a>[\[1\]](#ref-varoufakis). Billonarios (o trillonarios, según cómo lo leas) que acumulan una insólita e inimaginable cantidad de riqueza y poder. Estos nuevos señores feudales resultan también ser los dueños de esas mismas tecnologías que se han convertido en necesarias para la vida.
 
 
 Casualidad no es causalidad, pero es evidente que estos dos fenómenos están relacionados de alguna manera.
 
 
-Hace más de una década, hacktivistas y profesionales han llamado la atención sobre la pérdida de privacidad que los usuarios experimentan en internet y las aplicaciones celulares. El cada vez más agresivo mercado de los datos ha demostrado sus vértices más problemáticos: desde micrófonos incorporados en dispositivos hogareños que no declaran capacidad de escucha hasta capturas de pantalla que se transmiten periódicamente a servidores de grandes compañías.[\[Z\]](#ref-windows).
+Hace más de una década, hacktivistas y profesionales han llamado la atención sobre la pérdida de privacidad que los usuarios experimentan en internet y las aplicaciones celulares. El cada vez más agresivo mercado de los datos ha demostrado sus vértices más problemáticos: desde micrófonos incorporados en dispositivos hogareños que no declaran capacidad de escucha hasta capturas de pantalla que se transmiten periódicamente a servidores de grandes compañías.<a id="cite-windows"></a>[\[Z\]](#ref-windows).
 
 
 Sin embargo, al exponer y tratar de concientizar sobre estos problemas en la sociedad, muchas veces se ha fallado en demostrar cuáles eran las consecuencias de esta intrusión en la privacidad del usuario. Hablábamos de la persecución estatal, del pobre manejo de esos datos, del desbalance de poder, pero la realidad es que la gente que no estaba muy interiorizada en estos temas no lograba empatizar. Primero decían que no tenían nada que esconder; ahora se han vuelto tan dependientes de esas mismas aplicaciones que, aunque tienen una vaga idea de que se les está violando un derecho, han perdido la capacidad de funcionar adecuadamente sin esta intervención tecnológica. Usan aplicaciones de citas para conocer gente, Instagram para mantener contacto con sus familiares y amigos y Facebook para vender sus productos y servicios. Aún creen que el balance entre lo que se supone que les están sacando y lo que les da es mayor.
@@ -44,7 +44,7 @@ Para eso tenemos que entender cómo funciona el negocio de las grandes tecnológ
 Lo primero que tenemos que entender es por qué los ricos son tan ricos. Por qué Jeff Bezos, Elon Musk y Mark Zuckerberg son los hombres más ricos del planeta y cómo han llegado a serlo.
 
 
-Muchas veces se ha dicho que los datos son el petróleo del siglo XXI. Pero yo, en particular, nunca había entendido bien a qué se referían con esa frase. Sabía que se recolectaban datos de los usuarios, de su actividad, sus preferencias, y que luego esos datos se vendían, pero desconocía qué se hacía con esos datos y por qué otras empresas estaban dispuestas a comprarlos a cualquier precio. En su libro"El capitalismo de la vigilancia", la profesora Shoshana Zuboff[\[2\]](#ref-zuboff) hace un análisis materialista de este fenómeno que me parece que ayuda a entender el modelo de negocio.
+Muchas veces se ha dicho que los datos son el petróleo del siglo XXI. Pero yo, en particular, nunca había entendido bien a qué se referían con esa frase. Sabía que se recolectaban datos de los usuarios, de su actividad, sus preferencias, y que luego esos datos se vendían, pero desconocía qué se hacía con esos datos y por qué otras empresas estaban dispuestas a comprarlos a cualquier precio. En su libro"El capitalismo de la vigilancia", la profesora Shoshana Zuboff<a id="cite-zuboff"></a>[\[2\]](#ref-zuboff) hace un análisis materialista de este fenómeno que me parece que ayuda a entender el modelo de negocio.
 
 
 La idea es, en la superficie, simple: lo que venden es “futuros humanos”, una expresión acuñada por ella misma, tratando de hacer un paralelismo con los futuros financieros. Lo que estos futuros humanos implican es que estas empresas son capaces de predecir el comportamiento de la población. Y esto se hace posible a través del análisis de millones de puntos de información recolectados constantemente en todo el mundo. Y cuando digo todo el mundo, me refiero a la mayoría de las personas del planeta que usan las mismas aplicaciones para todo.
@@ -77,13 +77,13 @@ Escuchar y analizar la voz humana en las dimensiones más profundas que implicar
 Sin embargo, en los últimos 10 años se ha agregado una faceta mucho más siniestra a este modelo de negocio. Las compañías de datos han aprendido que no solo pueden predecir consumos futuros y cambios en esos consumos, sino que también pueden modificar activamente tus patrones de consumo.
 
 
-Esto lo han logrado gracias a un doble control del usuario. Primero, un conocimiento íntimo de la persona, tan íntimo que incluso pueden saber más de vos de lo que vos mismo sabés. El caso de una mujer que empezó a recibir publicidades de pañales antes de saber que estaba embarazada es ilustrativo. Analizando cambios aparentemente triviales en los hábitos de consumo —como la preferencia por productos sin fragancia—, una empresa desarrolló un modelo de predicción de embarazo con notable precisión. La usuaria fue segmentada como potencial madre y se activó sobre su perfil una campaña publicitaria específica, anticipándose incluso al conocimiento personal y familiar del embarazo.[\[3\]](#ref-duhigg)
+Esto lo han logrado gracias a un doble control del usuario. Primero, un conocimiento íntimo de la persona, tan íntimo que incluso pueden saber más de vos de lo que vos mismo sabés. El caso de una mujer que empezó a recibir publicidades de pañales antes de saber que estaba embarazada es ilustrativo. Analizando cambios aparentemente triviales en los hábitos de consumo —como la preferencia por productos sin fragancia—, una empresa desarrolló un modelo de predicción de embarazo con notable precisión. La usuaria fue segmentada como potencial madre y se activó sobre su perfil una campaña publicitaria específica, anticipándose incluso al conocimiento personal y familiar del embarazo.<a id="cite-duhigg"></a>[\[3\]](#ref-duhigg)
 
 
-El segundo control es el secuestro de la atención. Las redes sociales, sobre todo, están diseñadas para ser adictivas: su dinámica de descubrimiento, interacción y recompensa replica las emociones de las apuestas y la conquista amorosa. Este ciclo dopaminérgico es inmensamente adictivo[\[4\]](#ref-haidt). El resultado son personas —especialmente jóvenes— que pueden estar scrolleando horas y horas en la misma aplicación, ya sea Instagram, TikTok o Twitter (ahora X).
+El segundo control es el secuestro de la atención. Las redes sociales, sobre todo, están diseñadas para ser adictivas: su dinámica de descubrimiento, interacción y recompensa replica las emociones de las apuestas y la conquista amorosa. Este ciclo dopaminérgico es inmensamente adictivo<a id="cite-haidt"></a>[\[4\]](#ref-haidt). El resultado son personas —especialmente jóvenes— que pueden estar scrolleando horas y horas en la misma aplicación, ya sea Instagram, TikTok o Twitter (ahora X).
 
 
-A partir de este doble control —conocimiento íntimo y control de la información que el usuario recibe— son capaces de manipular subrepticiamente tus emociones para posicionar productos. Por ejemplo, Instagram, especialmente en mujeres, tiende a alimentar su feed con imágenes de cuerpos idealizados que erosionan la autoestima, algo que la propia empresa ha reconocido internamente. A partir de señales implícitas de uso —como interacciones, tiempo de visualización o incluso contenido subido y luego eliminado—, la plataforma infiere estados emocionales probables y ajusta tanto el contenido como la publicidad que muestra, favoreciendo con frecuencia productos de belleza o modificación corporal[\[5\]](#ref-facebook).
+A partir de este doble control —conocimiento íntimo y control de la información que el usuario recibe— son capaces de manipular subrepticiamente tus emociones para posicionar productos. Por ejemplo, Instagram, especialmente en mujeres, tiende a alimentar su feed con imágenes de cuerpos idealizados que erosionan la autoestima, algo que la propia empresa ha reconocido internamente. A partir de señales implícitas de uso —como interacciones, tiempo de visualización o incluso contenido subido y luego eliminado—, la plataforma infiere estados emocionales probables y ajusta tanto el contenido como la publicidad que muestra, favoreciendo con frecuencia productos de belleza o modificación corporal<a id="cite-facebook"></a>[\[5\]](#ref-facebook).
 
 
 A este método se lo llama “psyops”, operaciones psicológicas: un término militar y una práctica milenaria de utilizar las emociones —sobre todo las emociones fuertes— para cambiar el comportamiento de un objetivo (persona o grupo). Lo novedoso es que ahora las empresas de datos han tomado una práctica militar y la han dirigido a la población para maximizar sus ganancias. Usando este doble control, pueden venderle a una fábrica nuevos consumidores que, sin siquiera saberlo, están siendo manipulados para comprar sus productos.
@@ -98,7 +98,7 @@ A partir del escándalo de Cambridge Analytica se ha demostrado que, al menos, h
 ### El caso Cambridge Analytica
 
 
-En el año 2018, a partir de una serie de filtraciones periodísticas, se demostró que la empresa de análisis de datos Cambridge Analytica había utilizado datos personales obtenidos de Facebook sin consentimiento para influir en procesos electorales[\[6\]](#ref-CA), particularmente en las elecciones presidenciales de Estados Unidos de 2016. No hubo un “juicio” único y centralizado contra la empresa por manipulación electoral, pero sí investigaciones parlamentarias, sanciones regulatorias y audiencias públicas en EE.UU. y el Reino Unido que confirmaron estas prácticas.
+En el año 2018, a partir de una serie de filtraciones periodísticas, se demostró que la empresa de análisis de datos Cambridge Analytica había utilizado datos personales obtenidos de Facebook sin consentimiento para influir en procesos electorales<a id="cite-CA"></a>[\[6\]](#ref-CA), particularmente en las elecciones presidenciales de Estados Unidos de 2016. No hubo un “juicio” único y centralizado contra la empresa por manipulación electoral, pero sí investigaciones parlamentarias, sanciones regulatorias y audiencias públicas en EE.UU. y el Reino Unido que confirmaron estas prácticas.
 
 
 La manipulación no se centraba necesariamente en cambiar de forma directa el voto de un partido a otro. La evidencia reunida y el análisis posterior de estas prácticas sugieren estrategias más sutiles: influir sobre votantes indecisos, captar a quienes votaban por primera vez y, en algunos casos, desincentivar la participación electoral.
@@ -164,7 +164,7 @@ Para entender por qué ese intento de resolución toma la forma que toma, es nec
 ### La caída de los imperios
 
 
-Eric Hobsbawm caracteriza al largo siglo XIX como un período estructurado por una secuencia de revoluciones políticas, sociales e industriales.[\[7\]](#ref-hobsbawm). Estas se destacaron por enarbolar principios de igualdad y nacionalismo.
+Eric Hobsbawm caracteriza al largo siglo XIX como un período estructurado por una secuencia de revoluciones políticas, sociales e industriales.<a id="cite-hobsbawm"></a>[\[7\]](#ref-hobsbawm). Estas se destacaron por enarbolar principios de igualdad y nacionalismo.
 
 
 Hacia fines del siglo XIX estas revoluciones ya se habían afianzado. Los pocos sistemas sobrevivientes del Antiguo Régimen pendían de un hilo. En particular, a los europeos les preocupaba el Imperio austrohúngaro, heredero de la tradición del Sacro Imperio Romano Germánico y gobernado aún por la dinastía de los Habsburgo. La caída de este imperio precipitaría al mundo hacia la Primera Guerra Mundial y, para Stoker y sus contemporáneos, representaba el fin de una época y el comienzo de un futuro incierto.
@@ -239,7 +239,7 @@ No sabemos exactamente cómo afectó el juicio a Stoker, pero su obra sugiere qu
 ### Drácula como miedo al contagio
 
 
-Como dijo Gramsci: “El viejo mundo se muere. El nuevo tarda en aparecer. Y en ese claroscuro surgen los monstruos”[\[8\]](#ref-gramsci). Nunca fue tan literal como en este momento. Drácula nace en ese claroscuro en el que el viejo sistema está decadente y el nuevo aún no toma forma. Y se cristaliza en la mentalidad de este hombre victoriano, que no ve una salida a las contradicciones de su época.
+Como dijo Gramsci: “El viejo mundo se muere. El nuevo tarda en aparecer. Y en ese claroscuro surgen los monstruos”<a id="cite-gramsci"></a>[\[8\]](#ref-gramsci). Nunca fue tan literal como en este momento. Drácula nace en ese claroscuro en el que el viejo sistema está decadente y el nuevo aún no toma forma. Y se cristaliza en la mentalidad de este hombre victoriano, que no ve una salida a las contradicciones de su época.
 
 
 Pero, sobre todo, lo que le preocupa a Stoker es el contagio. Pero no únicamente el contagio de la gripe que traen los extranjeros o la sífilis que se propaga por el libertinaje de los nobles, sino un contagio moral, o más bien inmoral: la disolución de las barreras de clase que hace que las prácticas escandalosas de los nobles decanten hacia sectores populares y austeros.
@@ -279,7 +279,7 @@ Y para ello va a hacer uso de emociones, en particular se va a apoyar fuertement
 #### Protofascismo
 
 
-Estas cuatro emociones (miedo, amor, resentimiento y asco) son la base de lo que la autora Eva Illouz ha llamado populismo de derecha o protofascismo[\[9\]](#ref-illouz). Hoy en día la palabra fascismo está completamente devaluada, pero, como dice el dicho, si camina como un pato, habla como un pato y se ve como un pato, entonces es un pato.
+Estas cuatro emociones (miedo, amor, resentimiento y asco) son la base de lo que la autora Eva Illouz ha llamado populismo de derecha o protofascismo<a id="cite-illouz"></a>[\[9\]](#ref-illouz). Hoy en día la palabra fascismo está completamente devaluada, pero, como dice el dicho, si camina como un pato, habla como un pato y se ve como un pato, entonces es un pato.
 
 
 Si bien podemos decir que estos nuevos movimientos de derecha no son fascistas en toda su regla, sí allanan el camino hacia movimientos más extremistas. El protofascismo o populismo de derecha se destaca por redireccionar la violencia de una crisis hacia el interior de la sociedad. Otra forma de decirlo es que logra capitalizar una crisis a favor de sus propios intereses, manteniendo el status quo y redoblando la opresión hacia los sectores más vulnerables de la sociedad.
@@ -300,7 +300,7 @@ Y ahora sí, hemos cerrado el círculo. Podemos volver al presente con un poco m
 ### La farsa del fascismo
 
 
-Como dijo Marx, la historia se repite dos veces: primero como tragedia y después como farsa[\[10\]](#ref-marx). Esta frase suele citarse como un aforismo ingenioso, pero en realidad apunta a algo más preciso. Marx no hablaba de una repetición estética, sino de sistemas que, incapaces de resolver sus contradicciones materiales, recurren a formas del pasado para intentar hacerlo.
+Como dijo Marx, la historia se repite dos veces: primero como tragedia y después como farsa<a id="cite-marx"></a>[\[10\]](#ref-marx). Esta frase suele citarse como un aforismo ingenioso, pero en realidad apunta a algo más preciso. Marx no hablaba de una repetición estética, sino de sistemas que, incapaces de resolver sus contradicciones materiales, recurren a formas del pasado para intentar hacerlo.
 
 
 Cuando el fascismo se instauró en Europa en la primera mitad del siglo XX, utilizó como excusa la amenaza roja, el fantasma del comunismo. Aquello fue una tragedia: millones de muertos, guerras, exterminios. Pero al mismo tiempo fue una farsa, porque el comunismo no fue la causa real del fascismo. El fascismo se había gestado antes, como respuesta a las contradicciones internas de un sistema liberal que ya no podía sostenerse.
@@ -343,37 +343,47 @@ No es la tecnología el problema, es nuestra relación con ella.
 
 <a id="ref-windows"></a>
 [Z1] Google Nest Secure microphone disclosure: Business Insider, “Google admits it forgot to mention the Nest Secure alarm system has a microphone”, 2019; The Guardian, “Google admits Nest Secure alarm system had hidden microphone”, 2019. Ver también: Shoshana Zuboff, *The Age of Surveillance Capitalism* (2019) y entrevistas posteriores.
-
+<a href="#cite-windows">↩</a>
 
 [Z2] Microsoft, “Introducing Recall”, Windows Blog, 2024; Electronic Frontier Foundation, “Microsoft’s Recall Is Surveillance Built Into Windows”, 2024.
 
 <a id="ref-varoufakis"></a>
 [1] Yanis Varoufakis, “Technofeudalism Is Taking Over”, Project Syndicate, 2021; y *Technofeudalism: What Killed Capitalism*, 2023.
+<a href="#cite-varoufakis">↩</a>
 
 <a id="ref-zuboff"></a>
 [2] Shoshana Zuboff, *The Age of Surveillance Capitalism*, PublicAffairs, 2019.
+<a href="#cite-zuboff">↩</a>
 
 <a id="ref-duhigg"></a>
 [3] Charles Duhigg, “How Companies Learn Your Secrets”, *The New York Times Magazine*, 2012 (caso Target y embarazo).
+<a href="#cite-duhigg">↩</a>
 
 <a id="ref-haidt"></a>
 [4] Jonathan Haidt, *The Anxious Generation*, 2024.
+<a href="#cite-haidt">↩</a>
 
 <a id="ref-facebook"></a>
 [5] Facebook Papers / Frances Haugen (2021)
+<a href="#cite-facebook">↩</a>
 
 <a id="ref-CA"></a>
 [6] UK Information Commissioner’s Office (ICO), *Investigation into the use of data analytics in political campaigns*, 2018; FTC v. Cambridge Analytica, 2019; cobertura de *The Guardian*.
+<a href="#cite-CA">↩</a>
 
 <a id="ref-hobsbawm"></a>
 [7] Eric Hobsbawm, *The Age of Revolution: 1789–1848*, Vintage Books, 1962.
+<a href="#cite-hobsbawm">↩</a>
 
 <a id="ref-gramsci"></a>
 [8] Antonio Gramsci, *Cuadernos de la cárcel*, c. 1930.
+<a href="#cite-gramsci">↩</a>
 
 <a id="ref-illouz"></a>
 [9] Eva Illouz, *Cold Intimacies*; *Consuming the Romantic Utopia* artículos sobre populismo emocional.
+<a href="#cite-illouz">↩</a>
 
 <a id="ref-marx"></a>
 [10] Karl Marx, *El 18 Brumario de Luis Bonaparte*, 1852.
+<a href="#cite-marx">↩</a>
 
