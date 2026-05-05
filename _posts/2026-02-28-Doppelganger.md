@@ -78,6 +78,7 @@ Saico
 <a id="ref-siebenkas"></a>
 [1] La primera aparición del termino doppelgänger es el libro Aleman de Siebenkäs de Jean Paul publicado entre 1796 y 1797.
 <a href="#cite-siebenkas">↩</a>
+
 <a id="ref-borges"></a>
 [2] Borges, Jorge Luis. «El otro». En <em>El libro de arena</em>. Buenos Aires: Emecé Editores, 1975.
 <a href="#cite-borges">↩</a>
