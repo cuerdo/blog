@@ -59,7 +59,7 @@ Lo que han notado es que Tinder tiende a empujar a los usuarios a que adquieran 
 Al igual que el burócrata de Dostoievski, al experimentar un fracaso que lo aísla, el usuario, o sea, nosotros, también creamos la imagen de un doble. Un Chad, un individuo exitoso y próspero que se ha adaptado a las nuevas dinámicas de la vida digital, un doble digital.
 
 Así, nuestros avatares digitales no son simplemente nuestra presencia digital, son mejores que nosotros, más adaptados, y como un doppelgänger amenazan con ir reemplazándonos lentamente por completo. A medida que las aplicaciones van ganando territorio en nuestra intimidad también ese doble digital va haciéndose cada vez más y más importante. 
-Prácticas cada vez más extendidas: restaurantes y cafés que diseñan sus platos y espacios pensando en cómo se verán en Instagram aun a costa de la calidad del producto final, conciertos donde el público se la pasa filmando, hacer actividades que son tendencia, horarios que se ajustan al algoritmo. La vida cotidiana empieza a organizarse según qué tan “posteable” resulte. La experiencia directa es reemplazada por su representación digital.
+Restaurantes y cafés que diseñan sus platos y espacios pensando en cómo se verán en Instagram aun a costa de la calidad del producto final, conciertos donde el público se la pasa filmando, pensar actividades porque son tendencia, horarios que se ajustan al algoritmo. La vida cotidiana empieza a organizarse según qué tan “posteable” resulte. La experiencia directa es reemplazada por su representación digital.
 
 ## El espejo negro
 
@@ -68,7 +68,7 @@ En __Severance__, la identidad se divide en dos versiones incomunicadas, cada un
 
 ## Lo que no terminamos de ver
 
-El doble digital es una versión de nosotros mismos producida por sistemas cuyas reglas no terminamos de ver. No siempre están ocultas de forma deliberada; a veces simplemente exceden a quienes las construyen. En ese espacio, comenzamos a ajustarnos sin saber con precisión a qué lógica respondemos. Cada vez que insertamos una solución tecnológica en nuestra intimidad, en el bien común, estamos necesariamente cambiándolo. El malestar no es el resultado de un fracaso individual, es información que algo no funciona del todo correctamente, la sensación de que algo en nosotros se reorganiza sin que podamos nombrarlo del todo. Es importante que haya espacios para conversar sobre estos temas e investigar estos patrones. Quizás el primer paso no sea corregirlo, sino detenerse a mirarlo.
+El doble digital es una versión de nosotros mismos producida por sistemas cuyas reglas no terminamos de ver. No siempre están ocultas de forma deliberada; a veces simplemente exceden a quienes las construyen. En ese espacio, comenzamos a ajustarnos sin saber con precisión a qué lógica respondemos. Cada vez que insertamos una solución tecnológica en nuestra intimidad, en el bien común, estamos necesariamente cambiándolo. El malestar no es el resultado de un fracaso individual, es información de que algo no funciona del todo correctamente, la sensación de que algo en nosotros se reorganiza sin que podamos nombrarlo del todo. Es importante que haya espacios para conversar sobre estos temas e investigar estos patrones. Quizás el primer paso no sea corregirlo, sino detenerse a mirarlo.
 
 Besis,
 Saico
@@ -93,3 +93,11 @@ Saico
 <a id="ref-negri"></a>
 [5] Hardt, Michael y Negri, Antonio. <em>Commonwealth</em>. Cambridge: Harvard University Press, 2009.
 <a href="#cite-negri">↩</a>
+
+<a id="ref-netflix"></a>
+[6] Courtois, Cédric y Timmermans, Elisabeth. «Cracking the Tinder Code: An Experience Sampling Approach to the Dynamics and Impact of Platform Governing Algorithms». <em>Journal of Computer-Mediated Communication</em>, vol. 23, núm. 1, enero de 2018, pp. 1–16. <a href="https://doi.org/10.1093/jcmc/zmx001" target="_blank">https://doi.org/10.1093/jcmc/zmx001</a>
+<a href="#cite-netflix">↩</a>
+
+<a id="ref-tinder"></a>
+[7] Sulleyman, Aatif. «Netflix Says Sleep Is Its Biggest Competition». <em>The Independent</em>, 19 de abril de 2017. <a href="https://www.independent.co.uk/tech/netflix-downloads-sleep-biggest-competition-video-streaming-ceo-reed-hastings-amazon-prime-sky-go-now-tv-a7690561.html" target="_blank">independent.co.uk</a>
+<a href="#cite-tinder">↩</a>
