@@ -19,6 +19,8 @@ Hay varias razones por las cuales nuestro presente se parece al final del siglo 
 En __"El otro"__ de Borges se puede reconocer esta relación del doble con el yo del futuro. Si bien no es una historia de dobles victoriana o convencional, allí el autor narra cómo una tarde sentado a orillas del río Charles, en Boston, tiene un encuentro con su joven "yo", en un desdoblamiento temporal. Solo para darse cuenta cuánto ha cambiado y cuánto se desprecian uno al otro.
 
 > Medio siglo no pasa en vano. Bajo nuestra conversación de personas de miscelánea lectura y gustos diversos, comprendí que no podíamos entendernos. Éramos demasiado distintos y demasiado parecidos. No podíamos engañarnos, lo cual hace difícil el diálogo. Cada uno de los dos era el remedo caricaturesco del otro. La situación era harto anormal para durar mucho más tiempo. Aconsejar o discutir era inútil, porque su inevitable destino era ser el que soy.<a id="cite-borges"></a>[\[2\]](#ref-borges)
+
+
 ## Dios ha muerto
 
 Cuando Nietzsche anuncia la muerte de Dios en __Así habló Zaratustra (1883–1885)__, en realidad está describiendo un proceso que ya llevaba tiempo en marcha. La Ilustración, la Revolución francesa, la consolidación de la teoría germinal de la enfermedad a partir de los trabajos de Louis Pasteur y Robert Koch, la teoría de la evolución darwiniana y la expansión de la educación laica fueron algunos de los hitos que desplazaron las explicaciones religiosas del mundo en favor de modelos racionales y materiales.
